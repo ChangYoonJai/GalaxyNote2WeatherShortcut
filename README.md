@@ -1,0 +1,2 @@
+GSNote2WeatherShortcut
+======================
